@@ -1,0 +1,105 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>SEO Basics</title>
+  <metadata>
+  <md:content-id>m29648</md:content-id><md:title>SEO Basics</md:title>
+  <md:abstract>Gaining an understanding of the basics of seo and internet marketing. Overview of available channels and tools.</md:abstract>
+  <md:uuid>33037015-4446-4c6a-8254-7a44036b0041</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://www.squidoo.com/article-marketing-guidelines" strength="3">Article Marketing Tools</link>
+      <link url="http://ezinearticles.com/?Internet-Marketing---Generating-Backlinks-Through-Quality-Content&amp;id=2540615" strength="3">Generating Backlinks</link>
+      <link url="http://hubpages.com/hub/Directory-Submission-Software" strength="3">Directory Submission Software</link>
+      <link url="http://www.youtube.com/watch?v=YdnyDAYwvLw" strength="3">Roboform for SEO</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1170320401624">
+      <title>Google Perspective</title>
+      <para id="id1170317054422"/>
+      <para id="id1170319088388">What percentage of people click on the first result on a Google search page?</para>
+      <para id="id1170319294566">Over 40%. Over 80% never click beyond Page 1. So getting on the first page is kind of important. So what will get you there? Essentially, there are 2 components:</para>
+      <list id="id1170324303987" list-type="bulleted">
+        <item>content quality (and this includes the relevancy to the search term (more on this in a moment))</item>
+        <item>links or backlinks from other internet sites to yours</item>
+      </list>
+      <para id="id1170318499992">Let's focus on links firstly. Links are like votes. The more votes you receive the higher your ranking. But just like in some elections, not all votes count and some votes count more than others. The strength of a vote depends on who cast it. A quality website, such as a university or government department, carries a lot of weight. My brother's blog, which he started 4 years ago and has 2 posts, counts for not a lot.</para>
+      <para id="id1170322870540">To get to the top of Google therefore, you need lots of quality links to your site.</para>
+      <para id="id1170320915690">Relevancy</para>
+      <para id="id6993126">But the links have to be relevant to your site. So links from a gardening site to my internet marketing site are of little value. There's lots more about linking (the anchor text of the link, where it appears on a page, what else is on the page etc) and that will be covered in the links module later.</para>
+      <para id="id1170322138215">Getting back to relevancy, let me now say a few words about the words on your site and those used in the search query. Google aims to deliver results that are valuable. It will therefore try to match the words in the query with words on web pages. If you know what people type into Google when they are looking for your product, then you can make sure that you use those words on your web pages.</para>
+      <para id="id1170324965016">Simple! If only!</para>
+      <para id="id1170325295487">Let's say that you sell golf clubs. How likely is it that you will appear on the first page of Google. Not very, as you will see from the image below showing the number of sites relating to golf clubs.</para>
+      <para id="id1170320670248">However, if you were to focus on a narrower selection - a niche - such as "golf club head covers for irons", then the competition drops dramatically.</para>
+      <section id="id1170322187327">
+        <title>Keyword Research</title>
+        <para id="id7656819">Of course, we still need to check whether people actually type in this phrase. This activity of looking at search phrase competition and volume of searches is known as Keyword Research.it is the foundation of all internet marketing. If you build on sand, then ...</para>
+        <para id="id8357869">You may be thinking. But how much business can I possibly do on covers for irons. Possibly not a lot. The pie is small, but at least you are getting a slice. Remember - if you are not on the first page, you are nowhere.</para>
+        <para id="id8949993">You may not get much of the big pie - but you can have a slice of many smaller pies.</para>
+      </section>
+      <section id="id1170322526369">
+        <title>Getting Backlinks</title>
+        <para id="id8200153">Much of what I cover from this point on relates to generating backlinks to your site. Backlinks not only affect your search engine ranking, they are clickable! So they can bring traffic on their own.</para>
+        <para id="id1170321716708"/>
+        <para id="id1170315919681">As I said earlier, the value of a link depends on the page on which it appears. Google PageRank is useful indicator. [The Google Toolbar has a PageRank button]. More on PageRank in a later module.</para>
+      </section>
+      <section id="id6561038">
+        <title>Backlink Tips</title>
+        <list id="id1170326109321" list-type="bulleted">
+          <item>don't go too quickly - Google looks for "human-driven" patterns - there are software programs that can automate much of internet marketing but, if used inappropriately, they can lead you into the dark world of spamming - and usually at some point a Google slap!</item>
+          <item>use a multi-channel approach</item>
+          <item>Google loves videos and blogs!</item>
+          <item>focus on quality sites - like this one</item>
+          <item>use a linking pattern so that not all backlinks point to your main website. For instance, I have other sites pointing at this hub. </item>
+          <item>create quality content - create a virtous circle. Others will link to your content, which leads to clicks, which leads to more links which leads to a higher search engine ranking, which leads to clicks ...</item>
+        </list>
+      </section>
+      <section id="id1170322992056">
+        <title>Directory Submissions</title>
+        <para id="id1170315393694">Most SEO books will advise you to submit to online directories. In my experience, with the exception of one or two, it is amost a complete waste of time. And it is time-consuming (often you have to give a reciprocal link).</para>
+        <para id="id1170316577530">There are ways to automate. Have a look at the video about Roboform (my most used SEO tool - in fact my most used software utility.)</para>
+        <para id="id1170316740338">Think back to what I said earlier about Google and the quality of links. Why would Google count a link from a free directory site as being valuable? Would you trust such a link as being an indicator of quality content?</para>
+        <para id="id1170315690510">However, Google does give weight to one directory in particular: dmoz.</para>
+        <para id="id5101191">You should definitely try to gain an entry into dmoz - though it is extremely slow and there is no guarantee of a listing.</para>
+      </section>
+      <section id="id7610024">
+        <title>Social Bookmarking</title>
+        <para id="id1170317086837">There are a number of social bookmarking sites - such as Digg, Stumbleupon, Delicious - which carry weight with Google.</para>
+        <para id="id1170322318943">Social bookmarking though can be time-consuming - you will certainly want to look at the module on automating social bookmarking.</para>
+      </section>
+      <section id="id1170318465374">
+        <title>Blogging</title>
+        <para id="id1170317575258">Blogs have several advantages:</para>
+        <list id="id1170324304480" list-type="bulleted">
+          <item>you can be up-and-running without any technical ability in minutes</item>
+          <item>search engines like them</item>
+          <item>they get indexed quickly</item>
+          <item>commenting allows online conversations</item>
+          <item>people can subscribe to your 'feed' - they are automatically updated with your posts - you overcome apathy, inertia and forgetfulness (theirs, not yours!)</item>
+          <item>lots of plugins to extend functionality</item>
+        </list>
+        <para id="id2105229">If you have a webspace, your host will normally provide a free, one-click installation of a major blogging platform such as WordPress. Otherwise, you can get a free blog hosted by WordPress themselves.</para>
+        <para id="id1170319300123">This is a no-brainer - Just Do It!</para>
+        <para id="id1170317085473">This is just scratching the surface there are many other channels to consider:</para>
+        <list id="id1170322461691" list-type="bulleted">
+          <item>web 2.0 sites - like this one - and Squidoo</item>
+          <item>video marketing</item>
+          <item>article marketing</item>
+          <item>answers marketing</item>
+          <item>social media - facebook, twitter and myspace marketing</item>
+          <item>networks such as LinkedIn and Xing</item>
+          <item/>
+          <item>online PR</item>
+          <item>commenting on blogs and forums</item>
+          <item>email newsletters</item>
+          <item>pay per click</item>
+          <item>pinging</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>
